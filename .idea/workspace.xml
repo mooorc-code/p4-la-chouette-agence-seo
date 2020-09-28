@@ -16,7 +16,28 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e05a500-1a02-4526-b5e0-0c0ee9892ec8" name="Default Changelist" comment="" />
+    <list default="true" id="7e05a500-1a02-4526-b5e0-0c0ee9892ec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/image-de-presentation-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mariage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/voyageur.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/citation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dots-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lines-h2-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/texture-paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactez-nous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +59,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDatabase.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\p4-la-chouette-agence-seo\img" />
+      <recent name="C:\wamp64\www\p4-la-chouette-agence-seo\css" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -60,6 +89,16 @@
       <workItem from="1599570039610" duration="101000" />
       <workItem from="1599570546952" duration="129000" />
       <workItem from="1599570682773" duration="8000" />
+      <workItem from="1599571712784" duration="2038000" />
+      <workItem from="1600094177909" duration="2401000" />
+      <workItem from="1600158059040" duration="7620000" />
+      <workItem from="1600342057265" duration="3751000" />
+      <workItem from="1600527506023" duration="11000" />
+      <workItem from="1600682818239" duration="1951000" />
+      <workItem from="1600684797321" duration="8243000" />
+      <workItem from="1600945773310" duration="1886000" />
+      <workItem from="1601042748599" duration="780000" />
+      <workItem from="1601280243324" duration="5823000" />
     </task>
     <servers />
   </component>
@@ -94,13 +133,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="906" y="378" key="#Inspections" timestamp="1600354039241">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="906" y="378" key="#Inspections/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600354039241" />
     <state x="3200" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599569935487">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3200" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599569935487" />
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1600689031491">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1600689031491" />
     <state x="3112" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599570592019">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3112" y="252" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599570592019" />
+    <state x="3227" y="253" width="585" height="534" key="find.popup" timestamp="1600176657867">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3227" y="253" width="585" height="534" key="find.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600176657867" />
   </component>
 </project>
