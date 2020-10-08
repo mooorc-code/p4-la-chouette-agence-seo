@@ -17,26 +17,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e05a500-1a02-4526-b5e0-0c0ee9892ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/image-de-presentation-min.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mariage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/voyageur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/citation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dots-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lines-h2-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/texture-paper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactez-nous.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactez-nous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactez-nous.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +34,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="200" />
+    </hideBySeverity>
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="1hEEZrFGZXy2l6qIOsFhwl1MuZK" />
   <component name="ProjectLevelVcsManager">
@@ -98,7 +90,12 @@
       <workItem from="1600684797321" duration="8243000" />
       <workItem from="1600945773310" duration="1886000" />
       <workItem from="1601042748599" duration="780000" />
-      <workItem from="1601280243324" duration="5823000" />
+      <workItem from="1601280243324" duration="9057000" />
+      <workItem from="1601378664115" duration="609000" />
+      <workItem from="1601555691030" duration="3315000" />
+      <workItem from="1601891492873" duration="2253000" />
+      <workItem from="1601981679179" duration="1242000" />
+      <workItem from="1602059018307" duration="7229000" />
     </task>
     <servers />
   </component>
