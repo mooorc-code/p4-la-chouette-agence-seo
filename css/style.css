@@ -627,12 +627,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    color: #dd7834!important;
-}
-h2{
-    color: black;
-}
+
 p,label,.btn,a {
     font-family: "helvetica";
     color: #575757;
@@ -685,19 +680,21 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
+    padding-top: 25px;
 }
 
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: black;
 }
 
 h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333
+    color: black;
 }
 
 .med-width-whitespace {
@@ -707,7 +704,7 @@ h3 {
 }
 
 h1 {
-    color: #333333
+    color: #f9f9f9;
 }
 
 h4 {
@@ -720,7 +717,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF
+    color: #262626
 }
 
 .portfolio-thumb {
@@ -738,9 +735,11 @@ h4 {
 
 .black-background {
     background-color: rgba(165, 147, 99, 0.7);
-    padding: 40px 40px 40px 40px;
+    padding: 40px 40px;
 }
-
+.footer-background{
+    background-color: rgba(255,255,255,0.3);
+}
 .bold-link {
     font-weight: 900;
     text-decoration: underline;
@@ -755,15 +754,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #c84f00!important;
+    background-color: #e36c00 !important;
 }
 
 .tc-white {
-    color: black!important;
+    color: #333333!important;
 }
 
 .btn-atomic-tangerine {
-    background: #c84f00!important;
+    background: #e36c00 !important;
     color: black;
 }
 
@@ -996,15 +995,15 @@ h4 {
     }
 }
 
-@media (max-width: 400px) {
-    .bloc {
-        padding-left: 0;
-        padding-right: 0;
-    }
-}
+/*@media (max-width: 400px) {*/
+/*    .bloc {*/
+/*        padding-left: 0;*/
+/*        padding-right: 0;*/
+/*    }*/
+/*}*/
 
-@media (max-width: 767px) {
-    .bloc-mob-center-text {
-        text-align: center;
-    }
-}
+/*@media (max-width: 767px) {*/
+/*    .bloc-mob-center-text {*/
+/*        text-align: center;*/
+/*    }*/
+/*}*/

@@ -17,13 +17,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e05a500-1a02-4526-b5e0-0c0ee9892ec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/journal-local-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mariage-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photographe-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/voyageur-thumbnail.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactez-nous.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/citation-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dots-bg-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lines-h2-bg-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/texture-paper-min.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +58,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowDatabase.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\p4-la-chouette-agence-seo\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\p4-la-chouette-agence-seo\img" />
       <recent name="C:\wamp64\www\p4-la-chouette-agence-seo\css" />
@@ -103,6 +106,7 @@
       <workItem from="1602583248142" duration="2000000" />
       <workItem from="1602693669562" duration="4610000" />
       <workItem from="1602711883492" duration="1392000" />
+      <workItem from="1602762533558" duration="9916000" />
     </task>
     <servers />
   </component>
@@ -149,10 +153,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1602697188986" />
-    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1602583909628">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1602769346458">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1602583909628" />
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1602769346458" />
     <state x="3112" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599570592019">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
