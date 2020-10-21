@@ -17,14 +17,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e05a500-1a02-4526-b5e0-0c0ee9892ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/journal-local-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mariage-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photographe-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/voyageur-thumbnail.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/blocs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/blocs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,12 @@
       <workItem from="1602583248142" duration="2000000" />
       <workItem from="1602693669562" duration="4610000" />
       <workItem from="1602711883492" duration="1392000" />
-      <workItem from="1602762533558" duration="9916000" />
+      <workItem from="1602762533558" duration="11142000" />
+      <workItem from="1602777553222" duration="3575000" />
+      <workItem from="1603123704576" duration="5972000" />
+      <workItem from="1603206568144" duration="596000" />
+      <workItem from="1603288610436" duration="1560000" />
+      <workItem from="1603290188843" duration="4590000" />
     </task>
     <servers />
   </component>
@@ -161,9 +164,9 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3112" y="252" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599570592019" />
-    <state x="3227" y="253" width="585" height="534" key="find.popup" timestamp="1600176657867">
+    <state x="3055" y="139" width="975" height="716" key="find.popup" timestamp="1602779293848">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state x="3227" y="253" width="585" height="534" key="find.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600176657867" />
+    <state x="3055" y="139" width="975" height="716" key="find.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1602779293848" />
   </component>
 </project>
