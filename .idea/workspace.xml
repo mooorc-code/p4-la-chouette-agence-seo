@@ -18,6 +18,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7e05a500-1a02-4526-b5e0-0c0ee9892ec8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/et-line.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/et-line.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +112,9 @@
       <workItem from="1603736110749" duration="597000" />
       <workItem from="1604407470701" duration="2296000" />
       <workItem from="1604514568747" duration="3483000" />
-      <workItem from="1604537131095" duration="1219000" />
+      <workItem from="1604537131095" duration="3107000" />
+      <workItem from="1604622719128" duration="597000" />
+      <workItem from="1604667108305" duration="2271000" />
     </task>
     <servers />
   </component>
@@ -157,10 +161,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1602697188986" />
-    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1602769346458">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1604540794043">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1602769346458" />
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1604540794043" />
     <state x="3112" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599570592019">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
